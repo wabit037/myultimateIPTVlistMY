@@ -108,7 +108,6 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/640x360_7
 #EXTINF:-1 tvg-group="Sports" tvg-logo="https://freeview.github.io/iptv/logos/redbulltv.png",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTM3U
 #EXTINF:-1 tvg-ID="" tvg-name="NetTV.id" group-title="Lokal FTA" tvg-logo="https://macan.live/img/net.png", NET.
 https://delivery.macan.live/stream/id_nettv/index.m3u8?token=cmyiiD4B&v=20200308
 #EXTINF:-1 tvg-ID="" tvg-name="RCTI.id" group-title="Lokal FTA" tvg-logo="https://macan.live/img/rcti.jpg", RCTI
